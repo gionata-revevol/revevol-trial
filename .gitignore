@@ -3,3 +3,5 @@ gradlew
 .gradle/
 .idea/
 gradle/
+build/libs
+build/

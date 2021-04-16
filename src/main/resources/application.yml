@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    password: gionata84
+    url: jdbc:mysql://aa1jfy5kqqd2y3l.cqqmvfb0f43u.us-east-2.rds.amazonaws.com:3306/trial
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
